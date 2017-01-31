@@ -1,6 +1,6 @@
 ---
 title: 
-date: '2017-01-31 14:36:46'
+date: '2017-01-31 00:00:00'
 store-grid-lightbox-image: "/resources/images/branch/meem_interactive_table.jpg"
 store-grid-image: "/resources/images/branch/meem_interactive_table.jpg"
 store-image-alt-text: Meem Interactive banking table
